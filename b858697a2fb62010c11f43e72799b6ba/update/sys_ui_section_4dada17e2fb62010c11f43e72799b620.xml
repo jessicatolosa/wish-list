@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="" section_id="4dada17e2fb62010c11f43e72799b620" sys_domain="global" table="x_592898_wish_list_wish_item" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>display_name</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-03-13 17:19:58</sys_created_on>
+            <sys_id>039e69be2fb62010c11f43e72799b6ac</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_592898_wish_list_wish_item" sys_domain="global" view="Default view">4dada17e2fb62010c11f43e72799b620</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-03-13 17:19:58</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>requester</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-03-13 17:19:58</sys_created_on>
+            <sys_id>839e69be2fb62010c11f43e72799b6ac</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_592898_wish_list_wish_item" sys_domain="global" view="Default view">4dada17e2fb62010c11f43e72799b620</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-03-13 17:19:58</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>item</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-03-13 17:19:58</sys_created_on>
+            <sys_id>079e69be2fb62010c11f43e72799b6ac</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_592898_wish_list_wish_item" sys_domain="global" view="Default view">4dada17e2fb62010c11f43e72799b620</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-03-13 17:19:58</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>quantity</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-03-13 17:19:58</sys_created_on>
+            <sys_id>879e69be2fb62010c11f43e72799b6ac</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_592898_wish_list_wish_item" sys_domain="global" view="Default view">4dada17e2fb62010c11f43e72799b620</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-03-13 17:19:58</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>url</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-03-13 17:19:58</sys_created_on>
+            <sys_id>0b9e69be2fb62010c11f43e72799b6ac</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_592898_wish_list_wish_item" sys_domain="global" view="Default view">4dada17e2fb62010c11f43e72799b620</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-03-13 17:19:58</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>x_592898_wish_list_wish_item</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-03-13 17:15:45</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>4dada17e2fb62010c11f43e72799b620</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_592898_wish_list_wish_item</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Wish List" source="x_592898_wish_list">b858697a2fb62010c11f43e72799b6ba</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Wish List">b858697a2fb62010c11f43e72799b6ba</sys_scope>
+            <sys_update_name>sys_ui_section_4dada17e2fb62010c11f43e72799b620</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-03-13 17:15:45</sys_updated_on>
+            <sys_user/>
+            <title>true</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>
